@@ -1,0 +1,43 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage[english, russian]{babel}
+\let\myBib\thebibliography
+\let\endmyBib\endthebibliography 
+\renewcommand\thebibliography[1]{\ifx\relax#1\relax\else\myBib{#1}\fi}
+%\usepackage{amssymb,amsfonts,amsmath,mathtext,cite,enumerate,float}
+\usepackage[dvips]{graphicx} 
+\graphicspath{{images/}}
+
+\makeatletter
+\renewcommand{\@biblabel}[1]{#1.} 
+\makeatother
+
+\usepackage{geometry} 
+\geometry{left=2cm}
+\geometry{right=1.5cm}
+\geometry{top=1cm}
+\geometry{bottom=2cm} 
+
+
+
+
+\renewcommand{\theenumi}{\arabic{enumi}}
+\renewcommand{\labelenumi}{\arabic{enumi}}
+\renewcommand{\theenumii}{.\arabic{enumii}}
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}.}
+\renewcommand{\theenumiii}{.\arabic{enumiii}}
+\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.}
+
+
+\bibliographystyle{unsrt}
+\begin{document}
+\input{Title}
+\tableofcontents
+\input{introduction}
+\input{lit_review}
+\input{main_part}
+
+\bibliography{biblio}
+\addcontentsline{toc}{chapter}{Список литературы}
+\end{document}

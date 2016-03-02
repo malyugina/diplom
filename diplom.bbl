@@ -1,0 +1,196 @@
+\begin{thebibliography}{10}
+
+\bibitem{voronsov}
+Андрей Игнатов.
+\newblock Глубокое обучение в задаче
+  информационного анализа
+  электрокардиограмм для диагностики
+  заболеваний.
+
+\bibitem{EKG}
+Ю.~И. Зудбинов.
+\newblock {\em АЗБУКА ЭКГ}.
+\newblock Феникс, Ростов-на-дону, 2003.
+
+\bibitem{Ballistocardiograms}
+C.~Bruser, K.~Stadlthanner, S.~de~Waele, and S.~Leonhardt.
+\newblock Adaptive beat-to-beat heart rate estimation in ballistocardiograms.
+\newblock {\em Information Technology in Biomedicine, IEEE Transactions on},
+  15(5):778--786, Sept 2011.
+
+\bibitem{Photoplethysmography}
+John Allen.
+\newblock Photoplethysmography and its application in clinical physiological
+  measurement.
+\newblock {\em Physiological Measurement}, 28(3):R1, 2007.
+
+\bibitem{hrv_and_sensitivity}
+Peter Nickel and Friedhelm Nachreiner.
+\newblock Sensitivity and diagnosticity of the 0.1-hz component of heart rate
+  variability as an indicator of mental workload.
+\newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
+  Society}, 45(4):575--590, 2003.
+
+\bibitem{hrv_and_respiratory}
+Peter J{\"o}nsson.
+\newblock Respiratory sinus arrhythmia as a function of state anxiety in
+  healthy individuals.
+\newblock {\em International journal of psychophysiology}, 63(1):48--54, 2007.
+
+\bibitem{hrv_and_phisical_health}
+J~Th Bigger, Joseph~L Fleiss, Richard~C Steinman, Linda~M Rolnitzky, Robert~E
+  Kleiger, and Jeffrey~N Rottman.
+\newblock Frequency domain measures of heart period variability and mortality
+  after myocardial infarction.
+\newblock {\em Circulation}, 85(1):164--171, 1992.
+
+\bibitem{two_rates_hrv}
+B.~McA Sayers.
+\newblock Analysis of heart rate variability.
+\newblock {\em Ergonomics}, 16(1):17--32, 1973.
+
+\bibitem{mayer_wave}
+Claude Julien.
+\newblock The enigma of mayer waves: facts and models.
+\newblock {\em Cardiovascular research}, 70(1):12--21, 2006.
+
+\bibitem{pNN}
+JE~Mietus, CK~Peng, I~Henry, RL~Goldsmith, and AL~Goldberger.
+\newblock The pnnx files: re-examining a widely used heart rate variability
+  measure.
+\newblock {\em Heart}, 88(4):378--380, 2002.
+
+\bibitem{metric_of_hrv}
+Clinton~F Goss and Eric~B Miller.
+\newblock Dynamic metrics of heart rate variability.
+\newblock {\em arXiv preprint arXiv:1308.6018}, 2013.
+
+\bibitem{geometric_metric}
+Luiz Carlos~Marques Vanderlei, Carlos~Marcelo Pastre, Ismael~Forte
+  Freitas~J{\'u}nior, and Moacir Fernandes~de Godoy.
+\newblock Geometric indexes of heart rate variability in obese and eutrophic
+  children.
+\newblock {\em Arquivos brasileiros de cardiologia}, 95(1):35--40, 2010.
+
+\bibitem{autocorr_metric}
+C-K Peng, J~Mietus, JM~Hausdorff, S~Havlin, H~Eugene Stanley, and
+  AL~Goldberger.
+\newblock Long-range anticorrelations and non-gaussian behavior of the
+  heartbeat.
+\newblock {\em Physical review letters}, 70(9):1343, 1993.
+
+\bibitem{non_linear_metric}
+J{\o}rgen~K Kanters, NIELS-HENRIK HOLSTEIN-RATHLOU, and Erik Agner.
+\newblock Lack of evidence for low-dimensional chaos in heart rate variability.
+\newblock {\em Journal of cardiovascular electrophysiology}, 5(7):591--601,
+  1994.
+
+\bibitem{poinkare_plot}
+PW~Kamen and AM~Tonkin.
+\newblock Application of the poincare plot to heart rate variability: a new
+  measure of functional status in heart failure.
+\newblock {\em Australian and New Zealand journal of medicine}, 25(1):18--26,
+  1995.
+
+\bibitem{fractal_dim}
+Peter Grassberger and Itamar Procaccia.
+\newblock Measuring the strangeness of strange attractors.
+\newblock In {\em The Theory of Chaotic Attractors}, pages 170--189. Springer,
+  2004.
+
+\bibitem{fluct_analis}
+Jan~W Kantelhardt, Eva Koscielny-Bunde, Henio~HA Rego, Shlomo Havlin, and Armin
+  Bunde.
+\newblock Detecting long-range correlations with detrended fluctuation
+  analysis.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  295(3):441--454, 2001.
+
+\bibitem{entropy1}
+Robert~J Storella, Harrison~W Wood, Kenneth~M Mills, J{\o}rgen~K Kanters,
+  Michael~V H{\o}jgaard, and Niels-Henrik Holstein-Rathlou.
+\newblock Approximate entropy and point correlation dimension of heart rate
+  variability in healthy subjects.
+\newblock {\em Integrative physiological and behavioral science},
+  33(4):315--320, 1998.
+
+\bibitem{entropy2}
+Joshua~S Richman and J~Randall Moorman.
+\newblock Physiological time-series analysis using approximate entropy and
+  sample entropy.
+\newblock {\em American Journal of Physiology-Heart and Circulatory
+  Physiology}, 278(6):H2039--H2049, 2000.
+
+\bibitem{entropy3}
+Madalena Costa, Ary~L Goldberger, and C-K Peng.
+\newblock Multiscale entropy analysis of complex physiologic time series.
+\newblock {\em Physical review letters}, 89(6):068102, 2002.
+
+\bibitem{other_analis1}
+Boris~P Kovatchev, Leon~S Farhy, Hanqing Cao, M~Pamela Griffin, Douglas~E Lake,
+  and J~Randall Moorman.
+\newblock Sample asymmetry analysis of heart rate characteristics with
+  application to neonatal sepsis and systemic inflammatory response syndrome.
+\newblock {\em Pediatric research}, 54(6):892--898, 2003.
+
+\bibitem{other_analis2}
+Amir~H Shirazi, Mohammad~R Raoufy, Haleh Ebadi, Michele De~Rui, Sami Schiff,
+  Roham Mazloom, Sohrab Hajizadeh, Shahriar Gharibzadeh, Ahmad~R Dehpour, Piero
+  Amodio, et~al.
+\newblock Quantifying memory in complex physiological time-series.
+\newblock {\em PloS one}, 8(9):e72854, 2013.
+
+\bibitem{other_analis3}
+H~Ebadi, AH~Shirazi, Ali~R Mani, and GR~Jafari.
+\newblock Inverse statistical approach in heartbeat time series.
+\newblock {\em Journal of Statistical Mechanics: Theory and Experiment},
+  2011(08):P08014, 2011.
+
+\bibitem{neural_network}
+Ra{\'u}l Rojas.
+\newblock {\em Neural networks: a systematic introduction}.
+\newblock Springer Science \& Business Media, 2013.
+
+\bibitem{rnn_for_speech_recognition}
+Alan Graves, Abdel-rahman Mohamed, and Geoffrey Hinton.
+\newblock Speech recognition with deep recurrent neural networks.
+\newblock In {\em Acoustics, Speech and Signal Processing (ICASSP), 2013 IEEE
+  International Conference on}, pages 6645--6649. IEEE, 2013.
+
+\bibitem{rnn_for_text_recognition}
+Ronaldo Messina and J{\'e}r{\^o}me Louradour.
+\newblock Segmentation-free handwritten chinese text recognition with lstm-rnn.
+\newblock In {\em Document Analysis and Recognition (ICDAR), 2015 13th
+  International Conference on}, pages 171--175. IEEE, 2015.
+
+\bibitem{rnn_for_translation}
+Kyunghyun Cho, Bart Van~Merri{\"e}nboer, Caglar Gulcehre, Dzmitry Bahdanau,
+  Fethi Bougares, Holger Schwenk, and Yoshua Bengio.
+\newblock Learning phrase representations using rnn encoder-decoder for
+  statistical machine translation.
+\newblock {\em arXiv preprint arXiv:1406.1078}, 2014.
+
+\bibitem{rnn_for_prediction}
+Sharat~C Prasad and Piyush Prasad.
+\newblock Deep recurrent neural networks for time series prediction.
+\newblock {\em arXiv preprint arXiv:1407.5949}, 2014.
+
+\bibitem{vanishing_gradient_problem}
+Sepp Hochreiter.
+\newblock The vanishing gradient problem during learning recurrent neural nets
+  and problem solutions.
+\newblock {\em International Journal of Uncertainty, Fuzziness and
+  Knowledge-Based Systems}, 6(02):107--116, 1998.
+
+\bibitem{create_lstm}
+Sepp Hochreiter and J{\"u}rgen Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural computation}, 9(8):1735--1780, 1997.
+
+\bibitem{Backpropagation}
+Michael~C Mozer.
+\newblock A focused back-propagation algorithm for temporal pattern
+  recognition.
+\newblock {\em Complex systems}, 3(4):349--381, 1989.
+
+\end{thebibliography}
