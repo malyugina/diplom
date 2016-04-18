@@ -1,29 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{voronsov}
-Андрей Игнатов.
-\newblock Глубокое обучение в задаче
-  информационного анализа
-  электрокардиограмм для диагностики
-  заболеваний.
-
-\bibitem{EKG}
-Ю.~И. Зудбинов.
-\newblock {\em АЗБУКА ЭКГ}.
-\newblock Феникс, Ростов-на-дону, 2003.
-
-\bibitem{Ballistocardiograms}
-C.~Bruser, K.~Stadlthanner, S.~de~Waele, and S.~Leonhardt.
-\newblock Adaptive beat-to-beat heart rate estimation in ballistocardiograms.
-\newblock {\em Information Technology in Biomedicine, IEEE Transactions on},
-  15(5):778--786, Sept 2011.
-
-\bibitem{Photoplethysmography}
-John Allen.
-\newblock Photoplethysmography and its application in clinical physiological
-  measurement.
-\newblock {\em Physiological Measurement}, 28(3):R1, 2007.
-
 \bibitem{hrv_and_sensitivity}
 Peter Nickel and Friedhelm Nachreiner.
 \newblock Sensitivity and diagnosticity of the 0.1-hz component of heart rate
@@ -53,6 +29,29 @@ B.~McA Sayers.
 Claude Julien.
 \newblock The enigma of mayer waves: facts and models.
 \newblock {\em Cardiovascular research}, 70(1):12--21, 2006.
+
+\bibitem{EKG}
+Ю.~И. Зудбинов.
+\newblock {\em АЗБУКА ЭКГ}.
+\newblock Феникс, Ростов-на-дону, 2003.
+
+\bibitem{Ballistocardiograms}
+C.~Bruser, K.~Stadlthanner, S.~de~Waele, and S.~Leonhardt.
+\newblock Adaptive beat-to-beat heart rate estimation in ballistocardiograms.
+\newblock {\em Information Technology in Biomedicine, IEEE Transactions on},
+  15(5):778--786, Sept 2011.
+
+\bibitem{Photoplethysmography}
+John Allen.
+\newblock Photoplethysmography and its application in clinical physiological
+  measurement.
+\newblock {\em Physiological Measurement}, 28(3):R1, 2007.
+
+\bibitem{polarization_heart}
+АВ Струтынский.
+\newblock Электрокардиограмма: анализ и ин
+  терпретация.
+\newblock {\em М.: ООО {\guillemotleft}МЕДпресс}, 1999.
 
 \bibitem{pNN}
 JE~Mietus, CK~Peng, I~Henry, RL~Goldsmith, and AL~Goldberger.

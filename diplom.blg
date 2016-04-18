@@ -1,6 +1,51 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: diplom.aux
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: diplom.aux
 The style file: unsrt.bst
+Illegal, another \bibstyle command---line 4 of file diplom.aux
+ : \bibstyle
+ :          {unsrt}
+I'm skipping whatever remains of this command
 Database file #1: biblio.bib
-Warning--empty journal in voronsov
-Warning--empty year in voronsov
-(There were 2 warnings)
+You've used 31 entries,
+            1791 wiz_defined-function locations,
+            661 strings with 9834 characters,
+and the built_in function-call counts, 7591 in all, are:
+= -- 684
+> -- 347
+< -- 3
++ -- 129
+- -- 98
+* -- 573
+:= -- 1215
+add.period$ -- 96
+call.type$ -- 31
+change.case$ -- 29
+chr.to.int$ -- 0
+cite$ -- 31
+duplicate$ -- 316
+empty$ -- 725
+format.name$ -- 98
+if$ -- 1661
+int.to.chr$ -- 0
+int.to.str$ -- 31
+missing$ -- 33
+newline$ -- 158
+num.names$ -- 31
+pop$ -- 65
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 134
+stack$ -- 0
+substring$ -- 585
+swap$ -- 62
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 78
+width$ -- 33
+write$ -- 341
+(There was 1 error message)
