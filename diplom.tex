@@ -1,4 +1,6 @@
-\documentclass[a4paper,12pt]{report}
+\documentclass[a4paper,14pt,russian]{extreport}
+\sloppy
+\usepackage{extsizes}
 \usepackage[T2A]{fontenc}
 \usepackage[utf8x]{inputenc}
 \usepackage[english, russian]{babel}
@@ -10,6 +12,11 @@
 \usepackage[pdftex]{graphicx} 
 \graphicspath{{images/}}
 \bibliographystyle{unsrt}
+\usepackage{cmap}
+
+\usepackage{setspace}
+\onehalfspacing% полуторный интервал
+\renewcommand{\rmdefault}{ftm} % Times New Roman
 
 \RequirePackage[labelsep=period]{caption}
 \makeatletter
@@ -17,9 +24,9 @@
 \makeatother
 
 \usepackage{geometry} 
-\geometry{left=2cm}
-\geometry{right=1.5cm}
-\geometry{top=1cm}
+\geometry{left=3cm}
+\geometry{right=2cm}
+\geometry{top=2cm}
 \geometry{bottom=2cm} 
 
 
@@ -36,7 +43,7 @@
 
 \bibliographystyle{unsrt}
 \begin{document}
-\input{Title}
+\input{title}
 \tableofcontents
 \input{introduction}
 \input{lit_review}
